@@ -42,7 +42,7 @@ Pursuing bachelor of technology in computer science and engineering</div>
 
 
 
-</td></tr></table>  
+ 
 
 <br/>  
 
