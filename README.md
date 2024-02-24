@@ -1,12 +1,12 @@
-### <div align="center">Hi , I am Disha M S 
-A passionate MERN STACK developer from Gods own country,
-Pursuing bachelor of technology in computer science and engineering</div>  
+### <div align="center">Myself Disha M S
+A student developer,
+Pursuing bachelor of technology in computer science and engineering </div>  
   
 
-- 🔭 I’m currently working on Netflix clone  
+- 🔭 I’m currently working on my mini project - EXPENSE TRACKER USING OCR
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to web development  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
