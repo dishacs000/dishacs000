@@ -3,13 +3,13 @@ A student developer,
 Pursuing bachelor of technology in computer science and engineering </div>  
   
 
-- 🔭 I’m currently working on my mini project - EXPENSE TRACKER USING OCR
+-  I’m currently working on my mini project - EXPENSE TRACKER USING OCR
   
 
-- ❓ Ask me about anything related to web development  
+-  Enhancing my skills on C++ 
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+-  First solve the problem, then write the code! 
   
 
 <br/>  
