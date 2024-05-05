@@ -9,7 +9,7 @@ Pursuing bachelor of technology in computer science and engineering </div>
 -  Enhancing my skills on C++ 
   
 
--  First solve the problem, then write the code! 
+-  First solve the problem, then write the code!
   
 
 <br/>  
